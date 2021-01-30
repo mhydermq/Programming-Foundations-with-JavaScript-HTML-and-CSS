@@ -1,0 +1,119 @@
+Programming Foundations with JavaScript, HTML and CSS
+by Duke University
+
+Syllabus
+
+WEEK 1
+Welcome
+Welcome! In this module, you will be introduced to this course's approach to teaching 
+the basics of programming, from building web pages, to writing programs with JavaScript, 
+to making web pages interactive.
+5 videos, 1 reading
+
+    Video: Course Overview
+    Video: A Student's Perspective on Learning Programming
+    Video: Resources to Help You Succeed
+    Video: Tips for Learning Programming
+    Video: Using Forums: How to Ask for Help Effectively
+    Reading: Module Feedback Surveys
+
+Designing a Web Page with HTML and CSS
+In this module, you will learn the basics of HTML and CSS to design a web page. 
+Over the course of the module you will build your first web page!
+10 videos, 8 readings, 2 practice quizzes
+
+    Video: Using CodePen
+    Reading: Try It! Create Your CodePen Account
+    Video: What Is HTML?
+    Video: Metadata and Sectioning Elements
+    Reading: Try It! Build a “My Interests” Web Page
+    Discussion Prompt: Asking for Help in the Forums
+    Video: Formatting Text and Nesting Tags
+    Reading: Try It! Format Text
+    Video: Adding Images and Links
+    Video: Images and Storage
+    Reading: Try It! Add Links and Images
+    Video: Lists and Tables
+    Reading: Try It! Create Lists and Tables
+    Practice Quiz: Using HTML
+    Video: How CSS Is Used to Design Web Pages
+    Video: CSS Basics
+    Reading: Try It! Style Your Web Page with CSS
+    Video: Colors and Names in CSS
+    Reading: Try It! Customize Your Web Page’s Colors
+    Discussion Prompt: Share your “My Interests” Web Page
+    Practice Quiz: Styling with CSS
+    Reading: End of Module Survey
+Graded: Designing a Web Page with HTML and CSS
+
+WEEK 2
+Algorithms and Programming Concepts
+15 videos, 5 readings, 3 practice quizzes
+
+    Video: Introduction
+    Video: Everything Is a Number
+    Video: How Is That a Number?
+    Video: Developing an Algorithm
+    Video: A Seven Step Approach to Solving Programming Problems
+    Practice Quiz: Solving Programming Problems
+    Video: Variables
+    Video: Methods
+    Video: Functions
+    Video: Types
+    Video: DukeLearnToProgram Environment
+    Reading: Try It! Using Variables, Methods and Functions
+    Video: For Loops
+    Reading: Try It! Using For Loops
+    Video: Conditional Execution
+    Reading: Programming Exercise: Modifying Images
+    Practice Quiz: Modifying Images with JavaScript
+    Video: Translating to Code
+    Video: Thinking Critically about Your Program
+    Video: Finding Bugs in Code
+    Reading: Programming Exercise: Advanced Modifying Images
+    Practice Quiz: Debugging Your Code
+    Reading: End of Module Survey
+Graded: Overview of Programming Concepts
+
+WEEK 3
+JavaScript for Web Pages
+8 videos, 8 readings, 1 practice quiz
+
+    Video: Introduction
+    Video: Buttons with Divs
+    Reading: Try It! Buttons with Divs
+    Video: Changing Pages Interactively
+    Reading: Try It! Change Pages Interactively
+    Video: Using HTML5 Canvas
+    Reading: Try It! Canvas
+    Video: Inputs and Events
+    Reading: Try It! Inputs and Events
+    Practice Quiz: Event-Driven Programming
+    Video: Upload and Display an Image
+    Reading: Try It! Upload and Display an Image
+    Video: Convert Image to Grayscale
+    Reading: Try It! Convert an Image to Grayscale
+    Video: Moving to CodePen
+    Reading: Try It! Green Screen Online
+    Reading: End of Module Survey
+Graded: Interactive Web Pages
+
+WEEK 4
+MiniProject: Image Filters on the Web
+5 videos, 7 readings, 1 practice quiz
+
+    Video: Introduction
+    Reading: MiniProject Part 1
+    Reading: MiniProject Part 2
+    Reading: MiniProject Challenge
+    Reading: End of Module Survey
+    Reading: Extra Challenge
+    Video: Steganography Part I
+    Video: Steganography Part II
+    Practice Quiz: Steganography math
+    Video: Steganography Part III
+    Reading: Steganography Review
+    Video: Steganography Coding Example
+    Reading: Steganography: Programming Exercise Guide
+Graded: Review of HTML, CSS, and JavaScript
+Graded: Steganography
